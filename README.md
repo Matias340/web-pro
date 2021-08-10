@@ -1,4 +1,4 @@
-web-side with html, css, javascript
+web-side responsive with html, css, javascript
 
 ![Captura de pantalla 2021-08-10 203546](https://user-images.githubusercontent.com/55493081/128948463-dd80216b-e32b-400e-a753-413be4ae1f9d.png)
 
